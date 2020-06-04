@@ -3,3 +3,5 @@
 This is the test for github
 
 Testing merge conflicts
+
+Second branch
